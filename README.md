@@ -2,5 +2,5 @@
 
 ## Tabla de Integrantes
 |--------|-----------|
-| Alfa   | [Nombre de tu compañero] |
-| Bravo  | [Tu nombre] |
+| Alfa   | Corina |
+| Bravo  | Sonia |
